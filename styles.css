@@ -1,0 +1,27 @@
+.header
+{
+    text-align: center;
+    color: white;
+
+    font-family: 'Quicksand', sans-serif;
+}
+body
+{
+    color: white;
+    background: darkslateblue;
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+}
+.itch
+{
+    background: rgb(233, 57, 57);
+    padding: 10px 10px;
+    width: 700px;
+    margin: auto;
+    border: 1px solid red;
+    border-radius: 10px;
+}
+a
+{
+    color: darkblue;
+}
